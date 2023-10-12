@@ -2,7 +2,7 @@
 API Gateway + DynamoDB + Lambda
 Comlpete serveless stack
 
-#<h3>To setup the Project</h3> <br>
+<h3>To setup the Project</h3> <br>
 1.Download the project. <br>
 2.create your own go.mod.  <br>
 3.Create your Lambda Function.  <br>
